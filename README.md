@@ -14,7 +14,7 @@ This is a CRUD API for a Customer Management System built using Node.js, Express
 - [Usage](#usage)
   - [Running the Server](#running-the-server)
   - [API Endpoints](#api-endpoints)
-- [Testing](#testing)
+
 
 ## Getting Started
 
